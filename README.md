@@ -13,5 +13,3 @@ For my projects, I typically upload to GitHub once I’ve made significant progr
 😀 I like making music, designing interfaces, and exploring generative visuals.
 💬 Ask me about UX, design systems, or synthesizers.
 ⚡ Fun fact: My design approach is inspired by music composition—harmony and iteration.
-
-[![Akshay's Github Stats](https://github-readme-stats.vercel.app/api?username=akshaysic)](https://github.com/akshaysic/github-readme-stats)
